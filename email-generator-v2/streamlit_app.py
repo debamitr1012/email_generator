@@ -71,7 +71,7 @@ def main_gpt3emailgen():
     st.markdown('Generate professional sounding emails based on your cheap comments - powered by Artificial Intelligence (OpenAI GPT-3)! Implemented by '
         '[Debayudh Mitra](https://www.linkedin.com/in/debayudh-mitra/) - '
         'view project source code on '
-        '[GitHub]()')
+        '[GitHub](https://github.com/debamitr1012/email_generator)')
     st.write('\n')  # add spacing
     st.subheader('\nWhat is your email all about?\n')
     with st.expander("SECTION - Email Input", expanded=True):
