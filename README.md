@@ -1,1 +1,2 @@
 # Email Generator
+An email generator is a device or piece of software that generates email content based on user inputs and pre-defined templates. It can be used for a variety of things, like sending welcome emails, newsletters, and promotional emails. To make the email more individualised and pertinent to the recipients, users frequently have the option to customise the content, subject line, sender name, and other elements. Advanced features like A/B testing, analytics, and integration with other marketing tools are also available with some email generators.
